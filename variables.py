@@ -1,7 +1,7 @@
  # 1\. Store name, age, and city and display them
-name = "priyanka"
+name = "Palak"
 age = 20
-city = "Ahmedabad"
+city = "Rajkot"
 print("Name:", name)
 print("Age:", age)
 print("City:", city)
